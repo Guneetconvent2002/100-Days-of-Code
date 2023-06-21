@@ -18,11 +18,11 @@ The repository is organized as follows:
 
 My progress in the "100 Days of Code Challenge" will be updated daily in this section. Feel free to explore the solutions and track my journey.
 
-- 📅 [Day 1: Problem Title](Day-1/)
-- 📅 [Day 2: Problem Title](Day-2/)
-- 📅 [Day 3: Problem Title](Day-3/)
+- 📅 [Day 1: Maximum Value of K Coins From Piles](Day-1/)
+- 📅 [Day 2: Kids With the Greatest Number of Candies](Day-2/)
+- 📅 [Day 3: Simplify Path](Day-3/)
 ...
-- 📅 [Day 100: Problem Title](Day-100/)
+- 📅 [Day 100: Yet to do](Day-100/)
 
 ## Acknowledgments 🙏
 
