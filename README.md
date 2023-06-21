@@ -32,7 +32,7 @@ I would like to thank Deputy Director of Placement and Training Cell of my Unive
 
 If you have any questions, suggestions, or just want to connect with me, feel free to reach out:
 
-- LinkedIn: [Your Name](https://www.linkedin.com/in/itsguneetsingh)
+- LinkedIn: [Guneet Singh](https://www.linkedin.com/in/itsguneetsingh)
 
 Let's code together and make progress every day!
 
